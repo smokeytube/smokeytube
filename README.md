@@ -3,5 +3,5 @@
 - 🔭 I’m currently working on Eclient
 - 🖊 I’m currently learning PHP and D
 - 👯 I’m looking to collaborate on Eclient
-- 💬 Ask me about the sinking of the MS Estonia
-- ⚡ Fun fact: I live within explosion distance of a lost Mark 15 nuclear bomb
+- ⚡ Fun fact: ![image](https://user-images.githubusercontent.com/67290867/123552575-70e7f400-d77f-11eb-9fbb-cb56b04f5ae4.png)
+
