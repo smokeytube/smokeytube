@@ -1,4 +1,4 @@
-### Hi there 👋
+### Tere 👋
 
 [![My Statistic at GitHub](https://github-readme-stats.vercel.app/api?username=smokeytube&show_icons=true&theme=tokyonight)](https://github.com/smokeytube)
 [![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smokeytube&layout=compact&theme=tokyonight)](https://github.com/smokeytube)
