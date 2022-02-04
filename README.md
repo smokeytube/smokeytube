@@ -9,7 +9,7 @@
 
 Жыве Беларусь!
 
-![gif](https://media.discordapp.net/attachments/854050545093181471/871082298949402624/image0.gif)
+![image](![image](https://user-images.githubusercontent.com/67290867/152576444-a5b31d22-264f-436c-8d39-32aa3e324fcc.png))
 
 ![image](https://user-images.githubusercontent.com/67290867/149886706-9b625182-5d95-4435-89b0-b6a774dbc2be.png)
 
